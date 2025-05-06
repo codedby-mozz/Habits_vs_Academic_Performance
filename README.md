@@ -1,4 +1,4 @@
-# Habits_vs_Academic_Performance
+# Habits vs Academic Performance
 
 **Can your daily habits really predict how well you'll do on an exam?**
 This project explores the relationship between student lifestyle habits and academic performance using a dataset from Kaggle. By analyzing features like sleep, study routines, screen time, and diet, we aim to determine which factors most strongly correlate with exam outcomes — and whether we can predict performance from behavior.
