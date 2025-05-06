@@ -23,8 +23,11 @@ To identify lifestyle habits that significantly influence academic performance a
 
 ## Dataset
 Source: Kaggle
+
 Title: [Student Habits vs Academic Performance](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data)
+
 Provider: Jayanta Nath
+
 The dataset includes features such as:
 - Age
 - Gender
